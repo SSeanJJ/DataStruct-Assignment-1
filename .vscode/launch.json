@@ -29,6 +29,7 @@
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
+      "preLaunchTask": "Build",
       "request": "launch",
       "args": [],
       "cwd": "${workspaceFolder}",
