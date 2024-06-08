@@ -1,2 +1,4 @@
 *A1
 build/*
+main.o
+utility.o
